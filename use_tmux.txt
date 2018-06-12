@@ -5,4 +5,4 @@ Session相关操作
 重命名当前Session	
 添加了一行新的
 add a line2
-new &
+create a new branch is quick and simple
