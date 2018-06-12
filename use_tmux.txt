@@ -2,6 +2,5 @@ Session相关操作
 
 查看/切换session	prefix s
 离开Session	prefix d
-重命名当前Session	prefix $
-
+重命名当前Session	
 
