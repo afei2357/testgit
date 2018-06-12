@@ -12,7 +12,7 @@ Window相关操作
 使用窗口号切换	prefix 窗口号
 
 Pane相关操作
-
+add line
 切换到下一个窗格	prefix o
 查看所有窗格的编号	prefix q
 垂直拆分出一个新窗格	prefix “
